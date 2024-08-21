@@ -1,0 +1,44 @@
+.container {
+  padding: 0 2rem;
+  background-color: #f9f9f9;
+  min-height: 100vh;
+}
+
+.main {
+  padding: 4rem 0;
+  text-align: center;
+}
+
+.main h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+  color: #333;
+}
+
+.main h2 {
+  font-size: 2rem;
+  margin-top: 2rem;
+  color: #555;
+}
+
+.description {
+  font-size: 1.2rem;
+  color: #666;
+  margin-bottom: 2rem;
+}
+
+.team, .mission {
+  padding: 2rem 0;
+  background-color: #fff;
+  margin: 1rem 0;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.team h2, .mission h2 {
+  color: #444;
+}
+
+.team p, .mission p {
+  color: #777;
+}
