@@ -3,7 +3,7 @@ import styles from "./home.module.css";
 import Footer from "@/themes/components/footer/footer";
 import Image from "next/image";
 import SampleImage from "@/themes/images/sample-image.png";
-import { formatText } from "@/utils/formatText";
+import { formatText } from "@/utils/format-text";
 
 export default function Home() {
   return (
